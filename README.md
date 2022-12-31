@@ -1,14 +1,7 @@
 CSC 615 Embedded Linux - Team 0xFF PI 12/13/22
 
-# **CSC 615 Embedded Linux**
-
-# **Team**
-
-# **0xFF PI**
-
-#
-
-# **FALL 2022**
+# Embedded Linux - Group Term Project
+# FALL 2022
 
 |
  |
@@ -77,14 +70,14 @@ The aim of this project was to create a robot/car using a Raspberry Pi 4 and a r
 ### Parts / Sensors
 
 - Raspberry Pi 4
- ![Raspberry Pi 4](media\raspberrypi.jpg)
+ ![Raspberry Pi 4](media/raspberrypi.jpg)
   - This part is the main "brains" of the robot. The Pi is able to gather all of the data from the sensors. This allows the robot to make its own decision based on its surroundings and the requirements of the project.
   - Specifications
     - Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
     - 2.4 GHz and 5.0 GHz IEEE 802.11ac wireless, Bluetooth 5.0, BLE Gigabit Ethernet.
     - More information found [here](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/)
 - Waveshare Motor Driver HAT for Raspberry Pi (2)
- ![Waveshare Motor Driver HAT](media\motor-driver-hat-0.jpg)
+ ![Waveshare Motor Driver HAT](media/motor-driver-hat-0.jpg)
   - By stacking the two Motor Driver HATs the Raspberry Pi is able to control all 4 of the motors.
   - Each Motor Driver HAT had its own unique I2C address.
   - Specifications
@@ -92,14 +85,14 @@ The aim of this project was to create a robot/car using a Raspberry Pi 4 and a r
     - Onboard PCA9685 chip, provides 12-bit hardware PWM to adjust motor speed
     - More information found [here](https://www.waveshare.com/motor-driver-hat.htm).
 - Lidar - Slamtech RPLIDAR A1
- ![Lidar - Slamtech RPLIDAR A1](media\lidar.jpg)
+ ![Lidar - Slamtech RPLIDAR A1](media/lidar.jpg)
   - The robot depends on the Lidar for obstacle avoidance. The information recorded from the Lindar helps the robot navigate around objects.
   - Specifications
     - 360 Degree Omnidirectional Laser Range Scanning
     - Configurable Scan Rate from 2-10Hz
     - More information found [here](https://www.slamtec.com/en/Lidar/A1).
 - TCRT5000 Infrared Reflective Sensor IR (2)
- ![image14.jpg](RackMultipart20221231-1-k2gwn8_html_5aae9534438ddd20.gif)
+ ![Infrared Reflective Sensor IR](media/linesensor.jpg)
   - Specifications
     - Detecting the reflected distance: 1mm ~ 25mm applicable
     - Working voltage of 3.3V-5V
