@@ -51,7 +51,9 @@ The aim of this project was to create a robot/car using a Raspberry Pi 4 and a r
     - More information found [here](https://www.digikey.com/en/products/detail/adafruit-industries-llc/3777/8687221?utm_adgroup=Motors%20-%20AC%2C%20DC&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Motors%2C%20Solenoids%2C%20Driver%20Boards%2FModules_NEW&utm_term=&utm_content=Motors%20-%20AC%2C%20DC&gclid=Cj0KCQiA7bucBhCeARIsAIOwr--rpbJmqeXcYmGrkISqyiq37UTOlwCHT-pkvkphqX3v1M9j-Mc1qSIaAoysEALw_wcB).
 
 - Button (1)
+![](42B9D7A2-356F-4F96-8251-AF3A4E6A27E8.jpeg)
 - Small Breadboard (1)
+![Bread Board](media/BF9A57B5-5359-4BA8-BC0F-C3FE91A9E80F.jpeg)
 - Phone battery charger (1)
 - Batteries (3)
 - Acrylic Chassis kit & Mounts
