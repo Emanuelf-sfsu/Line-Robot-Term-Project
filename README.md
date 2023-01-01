@@ -7,59 +7,13 @@ CSC 615 Embedded Linux - Team 0xFF PI 12/13/22
 | Faiyaz Chaudhury| faiyazc              |
 | Briget Soriano  | b-ts-o               |
 | Emanuel Francis | Emanuelf-sfsu        |
-
-
-# Table of Contents
-
-**[Table of Contents](#_ucrkiug4jsw) 2**
-
-**[Task Description](#Task Description) 3**
-
-### Building the Robot **3**
-
-[Parts / Sensors](#_mbs6szieu54k) 3
-
-[How was bot built?](#_Table of Contents) 5
-
-[Libraries/Software](#_6202y0mz3dql) 10
-
-[Code Flowchart](#_a0psv2btgtcw) 11
-
-[Pin Assignments](#_dvxhh2g467kn) 12
-
-[Hardware Diagram](#_h34iwdcqatwp) 13
-
-**[Reflections](#_rf3da6gal691) 14**
-
-[Issues](#_myisp96nep34) 14
-
-[Solutions](#_14ko548rvd5) 15
-
-##
-
-
-##
-
-
-##
-
-
-##
-
-
-##
-
-
-##
-
-
 # Task Description
 
 The aim of this project was to create a robot/car using a Raspberry Pi 4 and a range of different sensors, wheels, and motors. Once the vehicle is assembled it must traverse through an obstacle course. The robot/car will follow a solid black line and navigate around objects on the path.
 
-## Building the Robot
+# Building the Robot
 
-### Parts / Sensors
+## Parts / Sensors
 
 - Raspberry Pi 4<br>
  ![Raspberry Pi 4](media/raspberrypi.jpg)
@@ -177,7 +131,7 @@ Final look of the car
     3. While right line sensor detects line, turn clockwise
     4. If both sensors detect line, keep current motion until line is centered
 
-### Libraries/Software
+## Libraries/Software
 
 - rpLidar C++ library, modified by Faiyaz
 - PCA9685, DEV\_Config, dev\_hardware\_i2c, sysfs\_gpio
