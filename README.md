@@ -69,7 +69,7 @@ The aim of this project was to create a robot/car using a Raspberry Pi 4 and a r
 
 ### Parts / Sensors
 
-- Raspberry Pi 4
+- Raspberry Pi 4<br>
  ![Raspberry Pi 4](media/raspberrypi.jpg)
   - This part is the main "brains" of the robot. The Pi is able to gather all of the data from the sensors. This allows the robot to make its own decision based on its surroundings and the requirements of the project.
   - Specifications
