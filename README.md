@@ -51,11 +51,11 @@ The aim of this project was to create a robot/car using a Raspberry Pi 4 and a r
     - More information found [here](https://www.digikey.com/en/products/detail/adafruit-industries-llc/3777/8687221?utm_adgroup=Motors%20-%20AC%2C%20DC&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Motors%2C%20Solenoids%2C%20Driver%20Boards%2FModules_NEW&utm_term=&utm_content=Motors%20-%20AC%2C%20DC&gclid=Cj0KCQiA7bucBhCeARIsAIOwr--rpbJmqeXcYmGrkISqyiq37UTOlwCHT-pkvkphqX3v1M9j-Mc1qSIaAoysEALw_wcB).
 
 - Button (1)
-![](42B9D7A2-356F-4F96-8251-AF3A4E6A27E8.jpeg)
+![](media/42B9D7A2-356F-4F96-8251-AF3A4E6A27E8.jpeg)
 - Small Breadboard (1)
 ![Bread Board](media/BF9A57B5-5359-4BA8-BC0F-C3FE91A9E80F.jpeg)
 - Phone battery charger (1)
-- Batteries (3)
+- Batteries (3 AA)
 - Acrylic Chassis kit & Mounts
   - More information found [here](https://www.amazon.com/wheel-layer-Chassis-Encoder-Arduino/dp/B06VTP8XBQ/ref=asc_df_B06VTP8XBQ/?tag=hyprod-20&linkCode=df0&hvadid=312134123917&hvpos=&hvnetw=g&hvrand=10552638582211431139&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061255&hvtargid=pla-569278336219&psc=1)
 
@@ -79,9 +79,9 @@ Final look of the car
 - Electrical assembly
   1. The robot uses two separate battery packs to power the motors, sensors, and raspberry pi.
 
-![](RackMultipart20221231-1-k2gwn8_html_480a3328ca09c123.png)
+![](media/RackMultipart20221231-1-k2gwn8_html_480a3328ca09c123.png)
 
-![](RackMultipart20221231-1-k2gwn8_html_76c0af9d5f6c9603.png)
+![](media/RackMultipart20221231-1-k2gwn8_html_76c0af9d5f6c9603.png)
 
 - Programming
 
@@ -152,22 +152,7 @@ Final look of the car
 
 ### Hardware Diagram
 
-## ![](RackMultipart20221231-1-k2gwn8_html_2e826c38ea8ff691.png)
-
-##
-
-
-##
-
-
-##
-
-
-##
-
-
-##
-
+## ![Circuit Diagram](media/circuit.png)
 
 ## Reflections
 
