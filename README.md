@@ -9,7 +9,7 @@ CSC 615 Embedded Linux - Team 0xFF PI 12/13/22
 | Emanuel Francis | Emanuelf-sfsu        |
 # Task Description
 
-The aim of this project was to create a robot/car using a Raspberry Pi 4 and a range of different sensors, wheels, and motors. Once the vehicle is assembled it must traverse through an obstacle course. The robot/car will follow a solid black line and navigate around objects on the path.
+The aim of this project is to create a robot using a Raspberry Pi 4 and a range of different sensors, wheels, and motors. Once the vehicle is assembled it must traverse through an obstacle course. The robot will follow a solid black line and navigate around objects on the path.
 
 # Building the Robot
 
