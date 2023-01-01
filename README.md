@@ -1,33 +1,25 @@
 CSC 615 Embedded Linux - Team 0xFF PI 12/13/22
 
-# Embedded Linux - Group Term Project
-# FALL 2022
-
-|
- |
- |
-| --- | --- |
-| **Github Repository** [https://github.com/CSC615-2022-Fall/csc615-term-project-faiyazc](https://github.com/CSC615-2022-Fall/csc615-term-project-faiyazc) |
-| **Members** | **Github Usernames** |
-| Hector M. Lua | hectormagallanes |
-| Faiyaz Chaudhury | faiyazc |
-| Briget Soriano | b-ts-o |
-| Emanuel Francis | Emanuelf-sfsu |
-
-###
+# Line Robot - Group Term Project FALL 22
+| **Members**     | **Github Usernames** |
+|-----------------|----------------------|
+| Hector M. Lua   | hectormagallanes     |
+| Faiyaz Chaudhury| faiyazc              |
+| Briget Soriano  | b-ts-o               |
+| Emanuel Francis | Emanuelf-sfsu        |
 
 
-## Table of Contents
+# Table of Contents
 
 **[Table of Contents](#_ucrkiug4jsw) 2**
 
-**[Task Description](#_rh7m2fobpu9m) 3**
+**[Task Description](#Task Description) 3**
 
-**[Building the Robot](#_55bi82vaezh0) 3**
+### Building the Robot **3**
 
 [Parts / Sensors](#_mbs6szieu54k) 3
 
-[How was bot built?](#_wjile0hxye3x) 5
+[How was bot built?](#_Table of Contents) 5
 
 [Libraries/Software](#_6202y0mz3dql) 10
 
@@ -61,7 +53,7 @@ CSC 615 Embedded Linux - Team 0xFF PI 12/13/22
 ##
 
 
-## Task Description
+# Task Description
 
 The aim of this project was to create a robot/car using a Raspberry Pi 4 and a range of different sensors, wheels, and motors. Once the vehicle is assembled it must traverse through an obstacle course. The robot/car will follow a solid black line and navigate around objects on the path.
 
